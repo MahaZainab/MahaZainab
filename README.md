@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahazainab&label=Profile%20views&color=0e75b6&style=flat" alt="mahazainab" /> </p>
 
-- 🔭 I’m currently working on **Solving Leetcode problems**
+- 🔭 I am one of the most active contributors on GitHub in Pakistan, ranking [![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/MahaZainab)
+
+- I’m currently working on **Solving Leetcode problems**
 
 - 🌱 I’m currently learning **Machine and Deep Learning and implementing them in NLP and computer vision field**
 
