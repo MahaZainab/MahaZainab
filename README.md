@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Maha Zainab</h1>
 <h3 align="center">A Machine Learning Researcher and Instructor at the same time</h3>
+  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MahaZainab&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+
+
+<img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azaanullah-khan" />
+
+<br/>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
