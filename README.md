@@ -3,16 +3,12 @@
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MahaZainab&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
-
-<img src="https://komarev.com/ghpvc/?username=MahaZainab&label=Profile%20views&color=0e75b6&style=flat" alt="MahaZainab" />
-
 <br/>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahazainab&label=Profile%20views&color=0e75b6&style=flat" alt="mahazainab" />
-[![committers.top badge](https://user-badge.committers.top/pakistan/MahaZainab.svg)](https://user-badge.committers.top/pakistan/MahaZainab)
-</p>
+[![committers.top badge](https://user-badge.committers.top/pakistan/MahaZainab.svg)](https://user-badge.committers.top/pakistan/MahaZainab)</p>
 
 # Top  Pakistani Github Contributor
 
