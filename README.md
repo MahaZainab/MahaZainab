@@ -15,7 +15,6 @@
 
 # Welcome to My GitHub Profile! 🌟
 
-## 🏆 Achievements & Awards
 I have been fortunate to receive numerous accolades throughout my academic and professional journey. Here are some of the highlights:
 
 - **Advent of Code 2024**: Achieved 17th position on day 20 among 198,321 participants internationally.
