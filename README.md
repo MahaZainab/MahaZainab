@@ -14,7 +14,6 @@
 </div>
 
 # Welcome to My GitHub Profile! 🌟
-
 I have been fortunate to receive numerous accolades throughout my academic and professional journey. Here are some of the highlights:
 
 - **Advent of Code 2024**: Achieved 17th position on day 20 among 198,321 participants internationally.
@@ -38,7 +37,7 @@ I have been fortunate to receive numerous accolades throughout my academic and p
 
 - 🌱 I’m currently learning **Machine and Deep Learning and implementing them in NLP and computer vision field**
 
-- 💬 Ask me about **ML, DL, NLP, Computervision**
+- 💬 Ask me about **Generative AI, Data Science, ML, DL, NLP, Computer Vision**
 
 - 📫 How to reach me **mznb03@gmail.com**
 
