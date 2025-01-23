@@ -13,6 +13,25 @@
   </a>
 </div>
 
+# Welcome to My GitHub Profile! 🌟
+
+## 🏆 Achievements & Awards
+I have been fortunate to receive numerous accolades throughout my academic and professional journey. Here are some of the highlights:
+
+- **Advent of Code 2024**: Achieved 17th position on day 20 among 198,321 participants internationally.
+- **Google Code Jam 2023**: Ranked as the 3rd highest female coder nationwide and 1798th globally.
+- **Advent of Code 2023**: Secured 45th position on day 19 among 311,017 coders.
+- **CS50x Puzzle Day 2023, 2024**: Winner of the puzzle day organized by Harvard University.
+- **IELTS**: Achieved a band score of 7.0.
+- **Ministry of Economy, Trade and Industry Japan Internship**: Selected as the only candidate from Pakistan among 90 awardees globally from 20,000 participants.
+- **ASCE NUST Thesis Competition**: 2nd position at a top-ranked university in Pakistan.
+- **Scholarships**:
+  - Awarded laptops based on merit by the Prime Minister and the Chief Minister of the state.
+  - HEC scholarship holder for Master of Science.
+  - Benevolent fund scholarship holder during my Bachelor of Science.
+  - Fully funded scholarship holder throughout high school.
+- **Kufic Calligraphy**: 1st position in a national competition.
+- **Girl Representative**: Received a certificate of appreciation from the University of Gujrat.
 
 
 - 🔭 I’m currently working on **Solving Leetcode problems**
