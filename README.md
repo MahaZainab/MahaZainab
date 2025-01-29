@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maha Zainab</h1>
 <h3 align="center">A Machine Learning Developer, Researcher and Instructor at the same time</h3>
-[![committers.top badge](https://user-badge.committers.top/pakistan/Maha Zainab.svg)]
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MahaZainab&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
