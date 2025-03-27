@@ -35,10 +35,6 @@ I have been fortunate to receive numerous accolades throughout my academic and p
 
 - 🔭 I’m currently working on **Solving Leetcode problems**
 
-- 🌱 I’m currently learning **Machine and Deep Learning and implementing them in NLP and computer vision field**
-
-- 💬 Ask me about **Generative AI, Data Science, ML, DL, NLP, Computer Vision**
-
 - 📫 How to reach me **mznb03@gmail.com**
 
 - ⚡ Fun fact **Other than coding I am a big fan of chocolates**
