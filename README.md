@@ -30,7 +30,6 @@ I have been fortunate to receive numerous accolades throughout my academic and p
   - Fully funded scholarship holder throughout high school.
 - **Kufic Calligraphy**: 1st position in a national competition.
 - **Girl Representative**: Received a certificate of appreciation from the University of Gujrat.
-- **Generative AI**: Developed and Deployed chatbots
 
 
 - 🔭 I’m currently working on **Solving Leetcode problems**
