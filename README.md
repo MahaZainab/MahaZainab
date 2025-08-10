@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maha Zainab</h1>
-<h3 align="center">Software Engineer, Researcher and Instructor at the same time, AI Expert</h3>
+<h3 align="center">Software Engineer, Researcher, AI expert, and Instructor at the same time</h3>
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MahaZainab&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
