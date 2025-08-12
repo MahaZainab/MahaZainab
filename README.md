@@ -36,7 +36,7 @@ I have been fortunate to receive numerous accolades throughout my academic and p
 
 - 📫 How to reach me **mznb03@gmail.com**
 
-- ⚡ Fun fact **Other than coding I am a big fan of chocolates**
+- ⚡ Fun fact **Other than coding  I am a big fan of chocolates**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
