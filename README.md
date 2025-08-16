@@ -25,7 +25,7 @@ I have been fortunate to receive numerous accolades throughout my academic and p
 - **ASCE NUST Thesis Competition**: 2nd position at a top-ranked university in Pakistan.
 - **Scholarships**:
   - Awarded laptops based on merit by the Prime Minister and the Chief Minister of the state.
-  - HEC scholarship holder for Master of Science.
+  - HEC scholarship holder for Master of Sciences.
   - Benevolent fund scholarship holder during my Bachelor of Science.
   - Fully funded scholarship holder throughout high school.
 - **Kufic Calligraphy**: 1st position in a national competition.
