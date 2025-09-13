@@ -16,6 +16,7 @@
 # Welcome to My GitHub Profile! 🌟
 I have been fortunate to receive numerous accolades throughout my academic and professional journey. Here are some of the highlights:
 
+working as a GRA
 - **Advent of Code 2024**: Achieved 17th position on day 20 among 198,321 participants internationally.
 - **Google Code Jam 2023**: Ranked as the 3rd highest female coder nationwide and 1798th globally.
 - **Advent of Code 2023**: Secured 45th position on day 19 among 311,017 coders.
